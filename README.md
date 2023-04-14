@@ -1,1 +1,1 @@
-# geradorfigurinhas
+# Gerador de Figurinhas
